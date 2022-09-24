@@ -1,0 +1,23 @@
+git 
+httpd git advantages 
+what is requirement for jenkinsQssdcfv
+Advantages on jenkins
+how to copy  server to server  if any job 
+useful pulgins in jenkins 
+custom build a core pulgin
+How to setup job in jenkins
+git hub integartion using jenkins
+git and git hub diff
+parameters in jenkins
+devoplments using pulgin 
+jenkins file
+groovy in jenkins
+ci/cd diff
+how to clone repo using jenkins
+Third party tools will support jenkins tool 
+troubleshoting failure Pipeline process
+please ceheck everyone once
+
+tree
+maven
+  ansible vault
